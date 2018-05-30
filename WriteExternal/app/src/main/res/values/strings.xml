@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Write External</string>
+    <string name="Save">Save to External</string>
+    <string name="my_image">MY IMAGE</string>
+</resources>
